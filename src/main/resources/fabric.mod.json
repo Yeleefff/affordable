@@ -5,7 +5,7 @@
 	"name": "affordable",
 	"description": "This mod removes the anvil's experience cost cap, allowing you to combine as many books and items as you would like.",
 	"authors": [
-		"Me!"
+		"Yeleefff"
 	],
 	"contact": {
 		"homepage": "",
@@ -24,8 +24,8 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.15.6",
-		"minecraft": "~1.20.4",
-		"java": ">=17",
+		"minecraft": "~1.20.5",
+		"java": ">=21",
 		"fabric-api": "*"
 	},
 	"suggests": {
